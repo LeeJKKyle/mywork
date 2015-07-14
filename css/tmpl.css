@@ -1,0 +1,134 @@
+.btn-primary {
+  background-color: #ff5952;
+  color: #fff; }
+  .btn-primary.touch-style {
+    background-color: #f74b43; }
+
+.btn-line {
+  border: .1rem solid #c7c0bb;
+  background-color: transparent;
+  color: #AB9D94; }
+  .btn-line.touch-style {
+    background-color: #c7c0bb;
+    color: #FFF; }
+
+.btn-cancel {
+  background-color: #878787;
+  color: #FFF; }
+  .btn-cancel.touch-style {
+    background-color: #797979; }
+
+.btn {
+  border-radius: .3rem;
+  cursor: pointer; }
+
+.btn:disabled {
+  opacity: .5; }
+
+.wrap {
+  text-align: center;
+  padding-top: 30px;
+  width: 750px;
+  height: 1026px;
+  margin: 0 auto;
+  background-color: #f7f7f7; }
+
+button {
+  width: 100pt;
+  height: 20pt;
+  background-color: #38bd4f; }
+
+.hd-center {
+  border-bottom: 1px solid #eaeaea;
+  background: url(../img/bg-center.png) no-repeat; }
+  .hd-center .hd-center-box {
+    width: 650px;
+    height: 105px;
+    padding: 42px 50px 51px; }
+    .hd-center .hd-center-box .per-infor a {
+      position: relative;
+      display: inline-block;
+      float: left;
+      width: 313px;
+      height: 105px;
+      text-decoration: none; }
+    .hd-center .hd-center-box .per-infor .head-image {
+      position: absolute;
+      top: 0;
+      left: 0; }
+      .hd-center .hd-center-box .per-infor .head-image img {
+        border-radius: 50px;
+        box-shadow: 0 0 50px #888; }
+    .hd-center .hd-center-box .per-infor .user-infor {
+      position: absolute;
+      top: 16px;
+      right: 0; }
+      .hd-center .hd-center-box .per-infor .user-infor p {
+        margin: 0;
+        color: #fff; }
+      .hd-center .hd-center-box .per-infor .user-infor .user-name {
+        font-size: 38px; }
+      .hd-center .hd-center-box .per-infor .user-infor .user-num {
+        font-size: 28px; }
+    .hd-center .hd-center-box .divider {
+      float: left;
+      width: 2px;
+      height: 84px;
+      margin: 25px 15px 0 40px;
+      background-color: #b0d1df; }
+    .hd-center .hd-center-box .per-integ a {
+      position: relative;
+      top: 35px;
+      display: inline-block;
+      float: left;
+      text-decoration: none; }
+    .hd-center .hd-center-box .per-integ .pi-icon {
+      margin-right: 15px; }
+    .hd-center .hd-center-box .per-integ .pi-num {
+      font-size: 42px;
+      color: #ffde00; }
+    .hd-center .hd-center-box .per-integ .pi-txt {
+      margin-left: 15px;
+      font-size: 28px;
+      color: #fff; }
+
+.function-cont {
+  width: 100%;
+  height: 439px;
+  background-color: #fff; }
+  .function-cont .function-mn {
+    width: 100%;
+    height: 210px; }
+    .function-cont .function-mn .but-box {
+      float: left;
+      padding: 51px 0 0 0; }
+      .function-cont .function-mn .but-box a {
+        display: inline-block;
+        text-decoration: none;
+        width: 250px; }
+        .function-cont .function-mn .but-box a .fun-icon {
+          display: inline-block;
+          width: 100px;
+          height: 100px;
+          margin-bottom: 18px;
+          border-radius: 46.5px; }
+          .function-cont .function-mn .but-box a .fun-icon img {
+            padding-top: 27px; }
+        .function-cont .function-mn .but-box a .fun-txt p {
+          margin: 0;
+          font-size: 24px;
+          color: #494949; }
+    .function-cont .function-mn .account .fun-icon {
+      background-color: #fcab53; }
+    .function-cont .function-mn .order .fun-icon {
+      background-color: #4b82ff; }
+    .function-cont .function-mn .service .fun-icon {
+      background-color: #3fbc32; }
+    .function-cont .function-mn .task .fun-icon {
+      background-color: #ff5353; }
+    .function-cont .function-mn .change .fun-icon {
+      background-color: #50d2c2; }
+    .function-cont .function-mn .goods .fun-icon {
+      background-color: #00b9ff; }
+
+/*# sourceMappingURL=tmpl.css.map */
